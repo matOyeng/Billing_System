@@ -8,4 +8,4 @@ This Project Requires.
 Wamp Server Installed (Running).
 
 Create database  "caddey"  and three tables "sale" , "users" and "stock".
-yus test
+yus test 1
