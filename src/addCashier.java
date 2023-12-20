@@ -22,6 +22,7 @@ public class addCashier extends JPanel {
 	String err="Enter username and passowrd";
 	String user,pass;
 	String name;
+	int age = 0;
 	/**
 	 * Create the panel.
 	 */
